@@ -11,7 +11,7 @@ int main()
     printf("veuiller enter le nombre b : \n");
     scanf("%f",&b);
     printf("veuiller enter le operateur du clacul : \n");
-    scanf (" %c ", &o);
+    scanf (" %c", &o);
 
 
     if (o == '+'){
